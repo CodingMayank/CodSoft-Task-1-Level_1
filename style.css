@@ -340,6 +340,9 @@ article .icon{
     width:90%;
     height:90%;
 }
+#magma-clone{
+    height:32.9vh;
+}
 .project-title{
     margin:1rem;
     color:black;
