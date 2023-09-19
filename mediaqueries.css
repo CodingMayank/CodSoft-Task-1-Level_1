@@ -95,4 +95,13 @@
     .text-container{
         text-align:justify;
     }
+    .allproject {
+        padding: 3vw 3vw;
+        border-radius: 50px;
+        margin-left: 31%;
+        background: rgb(85, 85, 85);
+        color: white;
+        border: none;
+        font-family: Poppins;
+    }
 }

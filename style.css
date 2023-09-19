@@ -355,6 +355,19 @@ article .icon{
     color:black;
     border-color:rgb(163,163,163);
 }
+.allproject{
+    padding:1vw 3vw;
+    border-radius:50px;
+    margin-left:43%;
+    background:#555555;
+    color:white;
+    border:none;
+    font-family:Poppins;
+}
+.allproject:hover{
+    background:black;
+    transition:0.3s ease-in;
+}
 
 /*Contact*/
 
